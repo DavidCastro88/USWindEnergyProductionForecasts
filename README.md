@@ -1,5 +1,4 @@
-![image](https://github.com/DavidCastro88/USWindEnergyProductionForecasts/assets/91480088/45833281-2829-4ce3-9e89-2de30310df30)# USWindEnergyProductionForecasts
-
+# ***US WindEnergyProduction Forecasts*** :chart_with_upwards_trend:⚡
 
 ![image](https://github.com/DavidCastro88/USWindEnergyProductionForecasts/assets/91480088/023a84da-7899-4141-8557-b7f31a0864a8)
 
